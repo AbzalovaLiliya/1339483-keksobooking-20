@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Лилия](https://up.htmlacademy.ru/javascript/20/user/1339483).
-* Наставник: `Неизвестно`.
+* Наставник: [Никита Сигов] (https://htmlacademy.ru/profile/crazer).
 
 ---
 
